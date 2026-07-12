@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Raheem 👋🏾
+<div align="center">
+  # Hi, I'm Raheem 👋🏾
+</div>
 
 ## About Me
 
