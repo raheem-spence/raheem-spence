@@ -14,42 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-  # Hi, I'm Raheem 👋🏾
-</div>
+# Hi, I'm Raheem 👋🏾
 
 ## About Me
 
 I'm a self-taught software engineer currently focused on backend development with Java and Spring Boot, but also interested in learning the full software development process.
 
-
 ## 🧱 Currently Building
 
-### 📖 NoteShare
+###  NoteShare
 A full-stack note-sharing application built with:
 - Java + Spring Boot
 - PostgreSQL
 - HTML/CSS/JavaScript
 
-Features include:
-- User authentication
-- Course management
-- Note CRUD operations
-- Permissions and authorization
-
-## 🛠️ Tech Stack
-
-**Backend**
-- Java
-- Spring Boot
-- PostgreSQL
-- REST APIs
-
-**Frontend**
-- Vallina JS
-- HTML
-- CSS
 
 
 
