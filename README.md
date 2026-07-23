@@ -1,33 +1,25 @@
-
-
-<!--
-**raheem-spence/raheem-spence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi, I'm Raheem 👋🏾
-
-## About Me
-
-I'm a self-taught software engineer currently focused on backend development with Java and Spring Boot, but also interested in learning the full software development process.
 
 ## 🧱 Currently Building
 
-###  NoteShare
-A full-stack note-sharing application built with:
+### Margin
+A course-based collaboration platform that helps students organize classes, share learning resources, and collaborate through shared notes.
+
+Built with:
 - Java + Spring Boot
 - PostgreSQL
+- Spring Security
 - HTML/CSS/JavaScript
 
+Current focus:
+- Course-based authorization
+- Resource sharing and permissions
+- Frontend/backend integration
 
+## 🌱 Currently Learning
 
-
+- Backend architecture
+- Database modeling
+- REST API design
+- Frontend/backend integration
+- DSA
