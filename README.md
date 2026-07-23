@@ -16,7 +16,7 @@ Current focus:
 - Resource sharing and permissions
 - Frontend/backend integration
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Backend architecture
 - Database modeling
