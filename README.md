@@ -2,7 +2,7 @@
 
 ## 🧱 Currently Building
 
-### Margin
+### Index
 A course-based collaboration platform that helps students organize classes, share learning resources, and collaborate through shared notes.
 
 Built with:
