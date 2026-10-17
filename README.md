@@ -3,7 +3,7 @@
 ## Currently Building
 
 ### Index
-A course-based collaboration platform that helps students organize classes, share learning resources, and collaborate through shared notes.
+A course-based collaboration platform that helps students organize courses, share learning resources, and collaborate through shared notes.
 
 Built with:
 - **Backend**: Java, Spring Boot, Spring Security
